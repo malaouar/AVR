@@ -1,0 +1,10 @@
+##########tinyUSBboard#########################################
+tinyUSBboard.name=tinyUSBboard (USBaspLoader ATmega8 at 16MHz)
+tinyUSBboard.upload.protocol=usbasp
+tinyUSBboard.upload.maximum_size=6144
+tinyUSBboard.upload.speed=115200
+tinyUSBboard.upload.disable_flushing=true
+tinyUSBboard.build.mcu=atmega8
+tinyUSBboard.build.f_cpu=16000000L
+tinyUSBboard.build.core=arduino
+tinyUSBboard.build.variant=standard 
